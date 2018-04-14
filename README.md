@@ -14,12 +14,12 @@ But, there are some "fancy" features we've also included:
 - Free modification of cursor and grid transparency.
 - Option to hide grid and cursor.
 - Option to only show templates from certain factions/groups/categories.
-- Goto search, so you can find creations with ease.(edited)
+- Goto search, so you can find creations with ease.
 
 # Sounds good, where can I get it
 Due to issues that have occurred in the past, the actual code is private, instead we provide an obfuscated version, that can be found here: https://github.com/PixelAtlas/Minimap, in the public repository containing every  factions' art.
 
-You will need TamperMonkey, a simple Chrome extension, installed beforehand.
+You will need TamperMonkey, a simple [Chrome extension](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) & [Firefox extension](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/), installed beforehand.
 
 # Can I add my own templates?
 Every person and/or faction is free to request their own templates to be added. For single man projects, your template will be filed under "Community". For factions with more than 10 members, you are free to ask for your own category.

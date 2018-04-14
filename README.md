@@ -32,3 +32,6 @@ Some rules apply to what you can and can't upload.
 - No NSFW, gore or sexual content.
 
 If your template does not violate any of these rules, go ahead and send a message in #requests stating the x, y, width, height, and name of the template, with the image attached (of course).
+
+# OFFICIAL Discord Server
+You can join our [discord server](https://discord.io/pixelatlas) in order to request templates, get news on the latest updates and more!

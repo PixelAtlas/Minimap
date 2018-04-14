@@ -3,6 +3,7 @@
     ["Abyss", "abyss"],
     ["Misc", "misc"],
     ["PixelBerry", "pixelberry"],
+    ["RedPixel", "redpixel"],
     ["Vapu", "vapu"]
   ],
   "Templates": {
@@ -41,7 +42,7 @@
       "height": 180,
       "categories": ["abyss"]
     },
-    "Abyss_Spider": {
+  "Abyss_Spider": {
       "x": -196,
       "y": -357,
       "width": 57,
@@ -110,6 +111,13 @@
       "width": 77,
       "height": 77,
       "categories": ["pixelberry"]
+    },
+  "RedPixel_IronCorpse": {
+      "x": -1898,
+      "y": 637,
+      "width": 840,
+      "height": 640,
+      "categories": ["redpixel"]
     },
 	"Vapu_Grano": {
       "x": -1097,

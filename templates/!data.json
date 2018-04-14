@@ -76,10 +76,10 @@
       "categories": ["vapu"]
     },
   "PixelBerry_MemorialArt": {
-    "x": 488,
-    "y": -275,
-    "width": 75,
-    "height": 75,
+    "x": 487,
+    "y": -276,
+    "width": 77,
+    "height": 77,
     "categories": ["pixelberry"]
     }
   }

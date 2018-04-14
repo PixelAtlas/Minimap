@@ -1,5 +1,9 @@
 {
-  "Categories": [ ["Abyss", "abyss"], ["Vapu", "vapu"] ],
+  "Categories": [
+    ["Abyss", "abyss"],
+    ["Vapu", "vapu"],
+    ["PixelBerry", "pixelberry"]
+  ],
   "Templates": {
     "Abyss_MemorialArt":  {
       "x": 254,
@@ -71,5 +75,12 @@
       "height": 222,
       "categories": ["vapu"]
     }
+  },
+  "PixelBerry_MemorialArt": {
+    "x": 488,
+    "y": -275,
+    "width": 75,
+    "height": 75,
+    "categories": ["pixelberry"]
   }
 }

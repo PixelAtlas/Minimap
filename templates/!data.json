@@ -1,5 +1,5 @@
 {
-  "Categories": [ ["Abyss", "abyss"] ],
+  "Categories": [ ["Abyss", "abyss"], ["Vapu", "vapu"] ],
   "Templates": {
     "Abyss_MemorialArt":  {
       "x": 254,
@@ -49,6 +49,27 @@
       "width": 60,
       "height": 60,
       "categories": ["abyss"]
+    },
+	"Vapu_Grano": {
+      "x": -1097,
+      "y": -375,
+      "width": 285,
+      "height": 110,
+      "categories": ["vapu"]
+    },
+	"Vapu_Logo": {
+      "x": -1097,
+      "y": -422,
+      "width": 169,
+      "height": 47,
+      "categories": ["vapu"]
+    },
+	"Vapu_Warrior": {
+      "x": -1465,
+      "y": -553,
+      "width": 112,
+      "height": 222,
+      "categories": ["vapu"]
     }
   }
 }

@@ -1,0 +1,33 @@
+{
+  "Categories": [ "Abyss" ],
+  "Templates": {
+    "Memorial_Art":  {
+      "x": 254,
+      "y": -353,
+      "width": 75,
+      "height": 75,
+      "categories": ["abyss"]
+    },
+    "big_invite_without_surrounding": {
+      "x": -343,
+      "y": 223,
+      "width": 192,
+      "height": 36,
+      "categories": ["abyss"]
+    },
+    "Wyvern": {
+      "x": 770,
+      "y": -420,
+      "width": 181,
+      "height": 190,
+      "categories": ["abyss"]
+    },
+    "Horseman": {
+      "x": -343,
+      "y": 81,
+      "width": 192,
+      "height": 142,
+      "categories": ["abyss"]
+    }
+  }
+}

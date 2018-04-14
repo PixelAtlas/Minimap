@@ -1,5 +1,5 @@
 {
-  "Categories": [ "Abyss" ],
+  "Categories": [ ["Abyss", "abyss"] ],
   "Templates": {
     "Memorial_Art":  {
       "x": 254,

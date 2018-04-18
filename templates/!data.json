@@ -1,6 +1,7 @@
 {
 	"Categories": [
 		["Abyss", "abyss"],
+		["Britain", "britain"],
 		["Misc", "misc"],
 		["PixelBerry", "pixelberry"],
 		["RedPixel", "redpixel"],
@@ -56,6 +57,13 @@
 			"width": 60,
 			"height": 60,
 			"categories": ["abyss"]
+		},
+		"Britain_UnionJack": {
+			"x": 1984,
+			"y": "919",
+			"width": 256,
+			"height": 196,
+			"categories": ["britain"]
 		},
 		"Misc_ChronoTrigger": {
 			"x": 2873,

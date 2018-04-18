@@ -60,7 +60,7 @@
 		},
 		"Britain_UnionJack": {
 			"x": 1984,
-			"y": "919",
+			"y": 919,
 			"width": 256,
 			"height": 196,
 			"categories": ["britain"]

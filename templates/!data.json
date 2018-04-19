@@ -60,14 +60,14 @@
 		},
 		"Britain_UnionJack": {
 			"x": 1872,
-			"y": 802,
+			"y": 793,
 			"width": 256,
 			"height": 128,
 			"categories": ["britain"]
 		},
 		"Misc_ChronoTrigger": {
 			"x": 2873,
-			"y": 793,
+			"y": 846,
 			"width": 153,
 			"height": 40,
 			"categories": ["misc"]

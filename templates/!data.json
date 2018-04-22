@@ -10,7 +10,7 @@
 	],
 	"Templates": {
 		"Abyss_MemorialArt": {
-			"name": "Abyss_MemorialArt.png", 
+			"name": "Abyss_MemorialArt.png",
 			"x": 254,
 			"y": -353,
 			"width": 75,
@@ -19,7 +19,7 @@
 			"aliases": ["Memorial Art", "Cell", "Lost", "Lost in the Abyss"]
 		},
 		"Abyss_Link": {
-			"name": "Abyss_Link.png", 
+			"name": "Abyss_Link.png",
 			"x": -343,
 			"y": 223,
 			"width": 192,
@@ -28,7 +28,7 @@
 			"aliases": ["Link", "Discord"]
 		},
 		"Abyss_Wyvern": {
-			"name": "Abyss_Wyvern.png", 
+			"name": "Abyss_Wyvern.png",
 			"x": 770,
 			"y": -420,
 			"width": 181,
@@ -37,7 +37,7 @@
 			"aliases": ["Wyvern"]
 		},
 		"Abyss_Horseman": {
-			"name": "Abyss_Horseman.png", 
+			"name": "Abyss_Horseman.png",
 			"x": -343,
 			"y": 81,
 			"width": 192,
@@ -46,7 +46,7 @@
 			"aliases": ["Horseman", "Knight"]
 		},
 		"Abyss_NightAngler": {
-			"name": "Abyss_NightAngler.png", 
+			"name": "Abyss_NightAngler.png",
 			"x": -791,
 			"y": 126,
 			"width": 255,
@@ -55,7 +55,7 @@
 			"aliases": ["Night Angler", "NA", "Angler"]
 		},
 		"Abyss_Spider": {
-			"name": "Abyss_Spider.png", 
+			"name": "Abyss_Spider.png",
 			"x": -196,
 			"y": -357,
 			"width": 57,
@@ -64,7 +64,7 @@
 			"aliases": ["Spider"]
 		},
 		"Abyss_RainbowScream": {
-			"name": "Abyss_RainbowScream.png", 
+			"name": "Abyss_RainbowScream.png",
 			"x": -866,
 			"y": -20,
 			"width": 60,
@@ -73,7 +73,7 @@
 			"aliases": ["Rainbow Scream", "RS", "Emoji"]
 		},
 		"Britain_UnionJack": {
-			"name": "Britain_UnionJack.png", 
+			"name": "Britain_UnionJack.png",
 			"x": 1872,
 			"y": 793,
 			"width": 256,
@@ -82,7 +82,7 @@
 			"aliases": ["Union Jack", "Britian"]
 		},
 		"Misc_ChronoTrigger": {
-			"name": "Misc_ChronoTrigger.png", 
+			"name": "Misc_ChronoTrigger.png",
 			"x": 2873,
 			"y": 846,
 			"width": 153,
@@ -91,7 +91,7 @@
 			"aliases": [""]
 		},
 		"Misc_CrabIsland": {
-			"name": "Misc_CrabIsland.png", 
+			"name": "Misc_CrabIsland.png",
 			"x": 593,
 			"y": -23,
 			"width": 256,
@@ -100,7 +100,7 @@
 			"aliases": ["Crab Island", "CI"]
 		},
 		"Misc_DragonBallEtc": {
-			"name": "Misc_DragonBallEtc.png", 
+			"name": "Misc_DragonBallEtc.png",
 			"x": 1003,
 			"y": -838,
 			"width": 237,
@@ -109,7 +109,7 @@
 			"aliases": ["Dragon Ball"]
 		},
 		"Misc_FactionBoard": {
-			"name": "Misc_FactionBoard.png", 
+			"name": "Misc_FactionBoard.png",
 			"x": -140,
 			"y": -619,
 			"width": 707,
@@ -118,7 +118,7 @@
 			"aliases": ["Faction Board", "Board"]
 		},
 		"Misc_LinkinParkLogo": {
-			"name": "Misc_LinkinParkLogo.png", 
+			"name": "Misc_LinkinParkLogo.png",
 			"x": 1228,
 			"y": -758,
 			"width": 40,
@@ -127,7 +127,7 @@
 			"aliases": [""]
 		},
 		"Misc_SpaceCanvasCenter": {
-			"name": "Misc_SpaceCanvasCenter.png", 
+			"name": "Misc_SpaceCanvasCenter.png",
 			"x": 782,
 			"y": -182,
 			"width": 200,
@@ -136,7 +136,7 @@
 			"aliases": ["Space Canvas"]
 		},
 		"Misc_Trumpepe": {
-			"name": "Misc_Trumpepe.png", 
+			"name": "Misc_Trumpepe.png",
 			"x": -2834,
 			"y": 2841,
 			"width": 171,
@@ -145,7 +145,7 @@
 			"aliases": [""]
 		},
 		"PixelBerry_MemorialArt": {
-			"name": "PixelBerry_MemorialArt.png", 
+			"name": "PixelBerry_MemorialArt.png",
 			"x": 487,
 			"y": -276,
 			"width": 77,
@@ -154,7 +154,7 @@
 			"aliases": ["PixelBerry"]
 		},
 		"RedPixel_IronCorpse": {
-			"name": "RedPixel_IronCorpse.png", 
+			"name": "RedPixel_IronCorpse.png",
 			"x": -1898,
 			"y": 637,
 			"width": 840,
@@ -163,7 +163,7 @@
 			"aliases": ["Iron Corpse"]
 		},
 		"Vapu_Grano": {
-			"name": "Vapu_Grano.png", 
+			"name": "Vapu_Grano.png",
 			"x": -1097,
 			"y": -375,
 			"width": 285,
@@ -172,7 +172,7 @@
 			"aliases": ["Grano"]
 		},
 		"Vapu_Logo": {
-			"name": "Vapu_Logo.png", 
+			"name": "Vapu_Logo.png",
 			"x": -1097,
 			"y": -422,
 			"width": 169,
@@ -181,7 +181,7 @@
 			"aliases": ["Vapu"]
 		},
 		"Vapu_Warrior": {
-			"name": "Vapu_Warrior.png", 
+			"name": "Vapu_Warrior.png",
 			"x": -1465,
 			"y": -553,
 			"width": 112,
@@ -190,13 +190,13 @@
 			"aliases": ["Warrior"]
 		},
 		"PixelEarth_Earth": {
-			"name": "PixelEarth_Earth.png", 
+			"name": "PixelEarth_Earth.png",
 			"x": -4000,
 			"y": -3738,
 			"width": 1500,
 			"height": 740,
 			"categories": ["pixelearth"],
 			"aliases": ["PixelEarth", "Earth"]
-		},
+		}
 	}
 }

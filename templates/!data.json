@@ -9,7 +9,6 @@
 		["PixelEarth", "pixelearth"]
 	],
 	"Templates": {
-
 		"Abyss_MemorialArt": {
 			"name": "Abyss_MemorialArt.png", 
 			"x": 254,
@@ -18,7 +17,7 @@
 			"height": 75,
 			"categories": ["abyss"],
 			"aliases": ["Memorial Art", "Cell", "Lost", "Lost in the Abyss"]
-		}
+		},
 		"Abyss_Link": {
 			"name": "Abyss_Link.png", 
 			"x": -343,
@@ -27,7 +26,7 @@
 			"height": 36,
 			"categories": ["abyss"],
 			"aliases": ["Link", "Discord"]
-		}
+		},
 		"Abyss_Wyvern": {
 			"name": "Abyss_Wyvern.png", 
 			"x": 770,
@@ -36,7 +35,7 @@
 			"height": 190,
 			"categories": ["abyss"],
 			"aliases": ["Wyvern"]
-		}
+		},
 		"Abyss_Horseman": {
 			"name": "Abyss_Horseman.png", 
 			"x": -343,
@@ -45,7 +44,7 @@
 			"height": 142,
 			"categories": ["abyss"],
 			"aliases": ["Horseman", "Knight"]
-		}
+		},
 		"Abyss_NightAngler": {
 			"name": "Abyss_NightAngler.png", 
 			"x": -791,
@@ -54,7 +53,7 @@
 			"height": 180,
 			"categories": ["abyss"],
 			"aliases": ["Night Angler", "NA", "Angler"]
-		}
+		},
 		"Abyss_Spider": {
 			"name": "Abyss_Spider.png", 
 			"x": -196,
@@ -63,7 +62,7 @@
 			"height": 110,
 			"categories": ["abyss"],
 			"aliases": ["Spider"]
-		}
+		},
 		"Abyss_RainbowScream": {
 			"name": "Abyss_RainbowScream.png", 
 			"x": -866,
@@ -72,7 +71,7 @@
 			"height": 60,
 			"categories": ["abyss"],
 			"aliases": ["Rainbow Scream", "RS", "Emoji"]
-		}
+		},
 		"Britain_UnionJack": {
 			"name": "Britain_UnionJack.png", 
 			"x": 1872,
@@ -81,7 +80,7 @@
 			"height": 128,
 			"categories": ["britain"],
 			"aliases": ["Union Jack", "Britian"]
-		}
+		},
 		"Misc_ChronoTrigger": {
 			"name": "Misc_ChronoTrigger.png", 
 			"x": 2873,
@@ -90,7 +89,7 @@
 			"height": 40,
 			"categories": ["misc"],
 			"aliases": [""]
-		}
+		},
 		"Misc_CrabIsland": {
 			"name": "Misc_CrabIsland.png", 
 			"x": 593,
@@ -99,7 +98,7 @@
 			"height": 144,
 			"categories": ["misc"],
 			"aliases": ["Crab Island", "CI"]
-		}
+		},
 		"Misc_DragonBallEtc": {
 			"name": "Misc_DragonBallEtc.png", 
 			"x": 1003,
@@ -108,7 +107,7 @@
 			"height": 224,
 			"categories": ["misc"],
 			"aliases": ["Dragon Ball"]
-		}
+		},
 		"Misc_FactionBoard": {
 			"name": "Misc_FactionBoard.png", 
 			"x": -140,
@@ -117,7 +116,7 @@
 			"height": 423,
 			"categories": ["misc"],
 			"aliases": ["Faction Board", "Board"]
-		}
+		},
 		"Misc_LinkinParkLogo": {
 			"name": "Misc_LinkinParkLogo.png", 
 			"x": 1228,
@@ -126,7 +125,7 @@
 			"height": 40,
 			"categories": ["misc"],
 			"aliases": [""]
-		}
+		},
 		"Misc_SpaceCanvasCenter": {
 			"name": "Misc_SpaceCanvasCenter.png", 
 			"x": 782,
@@ -135,7 +134,7 @@
 			"height": 200,
 			"categories": ["misc"],
 			"aliases": ["Space Canvas"]
-		}
+		},
 		"Misc_Trumpepe": {
 			"name": "Misc_Trumpepe.png", 
 			"x": -2834,
@@ -144,7 +143,7 @@
 			"height": 165,
 			"categories": ["misc"],
 			"aliases": [""]
-		}
+		},
 		"PixelBerry_MemorialArt": {
 			"name": "PixelBerry_MemorialArt.png", 
 			"x": 487,
@@ -153,7 +152,7 @@
 			"height": 77,
 			"categories": ["pixelberry"],
 			"aliases": ["PixelBerry"]
-		}
+		},
 		"RedPixel_IronCorpse": {
 			"name": "RedPixel_IronCorpse.png", 
 			"x": -1898,
@@ -162,7 +161,7 @@
 			"height": 640,
 			"categories": ["redpixel"],
 			"aliases": ["Iron Corpse"]
-		}
+		},
 		"Vapu_Grano": {
 			"name": "Vapu_Grano.png", 
 			"x": -1097,
@@ -171,7 +170,7 @@
 			"height": 110,
 			"categories": ["vapu"],
 			"aliases": ["Grano"]
-		}
+		},
 		"Vapu_Logo": {
 			"name": "Vapu_Logo.png", 
 			"x": -1097,
@@ -180,7 +179,7 @@
 			"height": 47,
 			"categories": ["vapu"],
 			"aliases": ["Vapu"]
-		}
+		},
 		"Vapu_Warrior": {
 			"name": "Vapu_Warrior.png", 
 			"x": -1465,
@@ -189,7 +188,7 @@
 			"height": 222,
 			"categories": ["vapu"],
 			"aliases": ["Warrior"]
-		}
+		},
 		"PixelEarth_Earth": {
 			"name": "PixelEarth_Earth.png", 
 			"x": -4000,
@@ -198,6 +197,6 @@
 			"height": 740,
 			"categories": ["pixelearth"],
 			"aliases": ["PixelEarth", "Earth"]
-		}
+		},
 	}
 }

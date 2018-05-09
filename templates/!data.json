@@ -162,6 +162,15 @@
 			"categories": ["redpixel"],
 			"aliases": ["Iron Corpse"]
 		},
+		"RedPixel_BlackBase": {
+			"name": "RedPixel_BlackBase.png",
+			"x": 4673,
+			"y": 3651,
+			"width": 726,
+			"height": 604,
+			"categories": ["redpixel"],
+			"aliases": ["Black Base", "BB"]
+		},
 		"Vapu_Grano": {
 			"name": "Vapu_Grano.png",
 			"x": -1097,

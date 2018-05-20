@@ -24,7 +24,7 @@
 			"y": 223,
 			"width": 192,
 			"height": 36,
-			"categories": ["abyss"],
+			"categories": [],
 			"aliases": ["Link", "Discord"]
 		},
 		"Abyss_Wyvern": {
@@ -42,7 +42,7 @@
 			"y": 81,
 			"width": 192,
 			"height": 142,
-			"categories": ["abyss"],
+			"categories": [],
 			"aliases": ["Horseman", "Knight"]
 		},
 		"Abyss_NightAngler": {

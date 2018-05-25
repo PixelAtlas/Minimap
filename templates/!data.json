@@ -6,7 +6,8 @@
 		["PixelBerry", "pixelberry"],
 		["RedPixel", "redpixel"],
 		["Vapu", "vapu"],
-		["PixelEarth", "pixelearth"]
+		["PixelEarth", "pixelearth"],
+		["AmethystKingdom", "amethyst"]
 	],
 	"Templates": {
 		"Abyss_MemorialArt": {
@@ -71,6 +72,15 @@
 			"height": 60,
 			"categories": ["abyss"],
 			"aliases": ["Rainbow Scream", "RS", "Emoji"]
+		},
+		"AmethystKingdom_Amethystbase": {
+			"name": "AmethystKingdom_Amethystbase.png",
+			"x": 6297,
+			"y": -988,
+			"width": 682,
+			"height": 241,
+			"categories": ["amethyst"],
+			"aliases": ["Amethyst Base", "Amethyst Kingdom Base"]
 		},
 		"Britain_UnionJack": {
 			"name": "Britain_UnionJack.png",

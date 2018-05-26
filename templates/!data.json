@@ -1,13 +1,13 @@
 {
 	"Categories": [
 		["Abyss", "abyss"],
+		["AmethystKingdom", "amethyst"],
 		["Britain", "britain"],
 		["Misc", "misc"],
 		["PixelBerry", "pixelberry"],
-		["RedPixel", "redpixel"],
-		["Vapu", "vapu"],
 		["PixelEarth", "pixelearth"],
-		["AmethystKingdom", "amethyst"]
+		["RedPixel", "redpixel"],
+		["Vapu", "vapu"]
 	],
 	"Templates": {
 		"Abyss_MemorialArt": {
@@ -81,6 +81,15 @@
 			"height": 241,
 			"categories": ["amethyst"],
 			"aliases": ["Amethyst Base", "Amethyst Kingdom Base"]
+		},
+		"AmethystKingdom_AmethystNorth": {
+			"name": "AmethystKingdom_AmethystNorth.png",
+			"x": -1118,
+			"y": -797,
+			"width": 260,
+			"height": 85,
+			"categories": ["amethyst"],
+			"aliases": ["Amethyst North", "Amethyst Kingdom North"]
 		},
 		"Britain_UnionJack": {
 			"name": "Britain_UnionJack.png",

@@ -163,6 +163,14 @@
 			"categories": ["misc"],
 			"aliases": [""]
 		},
+		"PixelBerry_Flag": {
+			"name": "PixelBerry_Flag.png",
+			"x": -4520,
+			"y": 5889,
+			"width": 289,
+			"height": 161,
+			"categories": ["pixelberry"]
+			"aliases": ["PixelBerry Flag", "PB Flag", "Berry Flag"]
 		"PixelBerry_MemorialArt": {
 			"name": "PixelBerry_MemorialArt.png",
 			"x": 487,
@@ -170,7 +178,7 @@
 			"width": 77,
 			"height": 77,
 			"categories": ["pixelberry"],
-			"aliases": ["PixelBerry"]
+			"aliases": ["PixelBerry Square", "PixelBerry Board", "PixelBerry Memorial"]
 		},
 		"PixelBerry_-42266066": {
 			"name": "PixelBerry_-42266066.png",

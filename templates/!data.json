@@ -172,6 +172,69 @@
 			"categories": ["pixelberry"],
 			"aliases": ["PixelBerry"]
 		},
+		"PixelBerry_-42266066": {
+			"name": "PixelBerry_-42266066.png",
+			"x": -4226,
+			"y": 6066,
+			"width": 213,
+			"height": 196,
+			"categories": ["pixelberry"],
+			"aliases": []
+		},
+		"PixelBerry_-41905879": {
+			"name": "PixelBerry_-41905879.png",
+			"x": -4190,
+			"y": 5879,
+			"width": 89,
+			"height": 183,
+			"categories": ["pixelberry"],
+			"aliases": []
+		},
+		"PixelBerry_-42926068": {
+			"name": "PixelBerry_-42926068.png",
+			"x": -4292,
+			"y": 6068,
+			"width": 67,
+			"height": 97,
+			"categories": ["pixelberry"],
+			"aliases": []
+		},
+		"PixelBerry_-43766076": {
+			"name": "PixelBerry_-43766076.png",
+			"x": -4376,
+			"y": 6076,
+			"width": 213,
+			"height": 196,
+			"categories": ["pixelberry"],
+			"aliases": []
+		},
+		"PixelBerry_-44376072": {
+			"name": "PixelBerry_-44376072.png",
+			"x": -4437,
+			"y": 6072,
+			"width": 59,
+			"height": 60,
+			"categories": ["pixelberry"],
+			"aliases": []
+		},
+		"PixelBerry_-44936072": {
+			"name": "PixelBerry_-44936072.png",
+			"x": -4493,
+			"y": 6072,
+			"width": 42,
+			"height": 58,
+			"categories": ["pixelberry"],
+			"aliases": []
+		},
+		"PixelBerry_-47065939": {
+			"name": "PixelBerry_-47065939.png",
+			"x": -4706,
+			"y": 5939,
+			"width": 213,
+			"height": 180,
+			"categories": ["pixelberry"],
+			"aliases": []
+		},
 		"RedPixel_IronCorpse": {
 			"name": "RedPixel_IronCorpse.png",
 			"x": -1898,

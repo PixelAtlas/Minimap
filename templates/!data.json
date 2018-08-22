@@ -7,6 +7,7 @@
 		["PixelBerry", "pixelberry"],
 		["PixelEarth", "pixelearth"],
 		["RedPixel", "redpixel"],
+		["SpaceCanvas", "spacecanvas"],
 		["Vapu", "vapu"]
 	],
 	"Templates": {
@@ -145,14 +146,14 @@
 			"categories": ["misc"],
 			"aliases": [""]
 		},
-		"Misc_SpaceCanvasCenter": {
-			"name": "Misc_SpaceCanvasCenter.png",
-			"x": 782,
-			"y": -182,
-			"width": 200,
-			"height": 200,
-			"categories": ["misc"],
-			"aliases": ["Space Canvas"]
+		"SpaceCanvas_CrabGalaxy": {
+			"name": "SpaceCanvas_CrabGalaxy.png",
+			"x": 575,
+			"y": -174,
+			"width": 387,
+			"height": 324,
+			"categories": ["spacecanvas"],
+			"aliases": ["Space Canvas", "Crab Galaxy"]
 		},
 		"Misc_Trumpepe": {
 			"name": "Misc_Trumpepe.png",

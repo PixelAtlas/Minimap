@@ -164,6 +164,15 @@
 			"categories": ["misc"],
 			"aliases": [""]
 		},
+		"Misc_TurntIrl": {
+			"name": "Misc_TurntIrl.png",
+			"x": -3800,
+			"y": -4052,
+			"width": 128,
+			"height": 128,
+			"categories": ["misc"],
+			"aliases": ["turnt"]
+		},
 		"PixelBerry_Flag": {
 			"name": "PixelBerry_Flag.png",
 			"x": -4520,

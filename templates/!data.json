@@ -155,6 +155,15 @@
 			"categories": ["spacecanvas"],
 			"aliases": ["Space Canvas", "Crab Galaxy"]
 		},
+		"SpaceCanvas_Base": {
+			"name": "SpaceCanvas_base.png",
+			"x": -7100,
+			"y": -4154,
+			"width": 1100,
+			"height": 1100,
+			"categories": ["spacecanvas"],
+			"aliases": ["Space base", "spacecanvas base", "Base"]
+		},
 		"Misc_Oddish": {
 			"name": "Misc_Oddish.png",
 			"x": 68992,

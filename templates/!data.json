@@ -148,9 +148,9 @@
 		},
 		"SpaceCanvas_CrabGalaxy": {
 			"name": "SpaceCanvas_CrabGalaxy.png",
-			"x": 575,
+			"x": 484,
 			"y": -174,
-			"width": 387,
+			"width": 478,
 			"height": 324,
 			"categories": ["spacecanvas"],
 			"aliases": ["Space Canvas", "Crab Galaxy"]

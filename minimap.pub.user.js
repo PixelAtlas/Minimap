@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.13
 // @description  Minimap for PixelCanvas
-// @author       Exel80#0001 & Olegisp#9389
+// @author       Exel80#0001 & olegispe#2453
 // @match        http://pixelcanvas.io/*
 // @match        https://pixelcanvas.io/*
 // @grant        GM_addStyle

@@ -8,6 +8,7 @@
 		["PixelEarth", "pixelearth"],
 		["RedPixel", "redpixel"],
 		["SpaceCanvas", "spacecanvas"],
+		["PixelGS", "pixelgs"],
 		["Vapu", "vapu"]
 	],
 	"Templates": {
@@ -334,6 +335,33 @@
 			"height": 697,
 			"categories": ["pixelearth"],
 			"aliases": ["PixelEarth", "Europe"]
+		},
+		"PixelGS_base": {
+			"name": "PixelGS_base.png",
+			"x": -925,
+			"y": -1954,
+			"width": 717,
+			"height": 266,
+			"categories": ["pixelgs"],
+			"aliases": ["PixelGS", "GS Base"]
+		},
+		"PixelGS_orta": {
+			"name": "PixelGS_orta.png",
+			"x": -765,
+			"y": 69,
+			"width": 92,
+			"height": 53,
+			"categories": ["pixelgs"],
+			"aliases": ["PixelGS", "GS orta", "orta"]
+		},
+		"PixelGS_ortakgs": {
+			"name": "PixelGS_ortakgs.png",
+			"x": -66,
+			"y": -433,
+			"width": 102,
+			"height": 172,
+			"categories": ["pixelgs"],
+			"aliases": ["PixelGS", "GS ortakgs", "ortakgs"]
 		}
 	}
 }

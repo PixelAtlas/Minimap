@@ -1,0 +1,152 @@
+{
+	"Categories": [
+		["Brasil-Zone", "brasilzone"],
+		["Voidzil", "voidzil"]
+	],
+	"Templates": {
+		"BrasilZone_MegaBandeira": {
+			"name": "BrasilZone_MegaBandeira.png",
+			"x": 2153,
+			"y": 3105,
+			"width": 1943,
+			"height": 991,
+			"categories": ["brasilzone"],
+			"aliases": ["Mega", "Bandeira"]
+		},
+		"BrasilZone_Discord": {
+			"name": "BrasilZone_Discord.png",
+			"x": 2702,
+			"y": 3010,
+			"width": 846,
+			"height": 95,
+			"categories": ["brasilzone"],
+			"aliases": ["BrasilZone Discord"]
+		},
+		"BrasilZone_Template": {
+			"name": "BrasilZone_Template.png",
+			"x": 327,
+			"y": 440,
+			"width": 202,
+			"height": 202,
+			"categories": ["brasilzone"],
+			"aliases": ["BrasilZone template", "guy"]
+		},
+		"BrasilZone_Guerreira": {
+			"name": "BrasilZone_Guerreira.png",
+			"x": 1463,
+			"y": 2220,
+			"width": 400,
+			"height": 400,
+			"categories": ["brasilzone"],
+			"aliases": ["Guerreira"]
+		},
+		"BrasilZone_Huedentor": {
+			"name": "BrasilZone_Huedentor.png",
+			"x": 3407,
+			"y": 2710,
+			"width": 379,
+			"height": 395,
+			"categories": ["brasilzone"],
+			"aliases": ["Huedentor"]
+		},
+		"BrasilZone_Unknown": {
+			"name": "BrasilZone_Unknown.png",
+			"x": 3407,
+			"y": 2710,
+			"width": 708,
+			"height": 423,
+			"categories": ["brasilzone"],
+			"aliases": ["unknown"]
+		},
+		"BrasilZone_Riachulo": {
+			"name": "BrasilZone_Riachulo.png",
+			"x": -300,
+			"y": 3400,
+			"width": 796,
+			"height": 446,
+			"categories": ["brasilzone"],
+			"aliases": ["Riachulo"]
+		},
+		"BrasilZone_Template2": {
+			"name": "BrasilZone_Template2.png",
+			"x": 2778,
+			"y": 2733,
+			"width": 139,
+			"height": 231,
+			"categories": ["brasilzone"],
+			"aliases": ["BrasilZone template2", "parrot", "José Carioca"]
+		},
+		"BrasilZone_Trio": {
+			"name": "BrasilZone_Trio.png",
+			"x": 2171,
+			"y": 2687,
+			"width": 582,
+			"height": 418,
+			"categories": ["brasilzone"],
+			"aliases": ["trio"]
+		},
+		"BrasilZone_Futbr": {
+			"name": "BrasilZone_Futbr.png",
+			"x": 3883,
+			"y": 2885,
+			"width": 208,
+			"height": 216,
+			"categories": ["brasilzone"],
+			"aliases": ["Futbr"]
+		},
+		"BrasilZone_Kuri3": {
+			"name": "BrasilZone_Kuri3.png",
+			"x": 854,
+			"y": 249,
+			"width": 263,
+			"height": 271,
+			"categories": ["brasilzone"],
+			"aliases": ["Kuri3"]
+		},
+		"BrasilZone_Gatobr": {
+			"name": "BrasilZone_Gatobr.png",
+			"x": 3022,
+			"y": 2922,
+			"width": 178,
+			"height": 88,
+			"categories": ["brasilzone"],
+			"aliases": ["Gatobr"]
+		},
+		"BrasilZone_Dogao": {
+			"name": "BrasilZone_Dogao.png",
+			"x": 2932,
+			"y": 2940,
+			"width": 90,
+			"height": 70,
+			"categories": ["brasilzone"],
+			"aliases": ["Dogao"]
+		},
+		"BrasilZone_Edu": {
+			"name": "BrasilZone_Edu.png",
+			"x": 3379,
+			"y": 2927,
+			"width": 83,
+			"height": 83,
+			"categories": ["brasilzone"],
+			"aliases": ["Edu"]
+		},
+		"BrasilZone_Artes": {
+			"name": "BrasilZone_Artes.png",
+			"x": 1683,
+			"y": 3084,
+			"width": 466,
+			"height": 578,
+			"categories": ["brasilzone"],
+			"aliases": ["Artes"]
+		},
+		"Voidzil_Full": {
+			"name": "Voidzil_Full.png",
+			"x": -123,
+			"y": 2363,
+			"width": 1433,
+			"height": 649,
+			"categories": ["voidzil"],
+			"aliases": ["Full voidzill"]
+		}
+	}
+}

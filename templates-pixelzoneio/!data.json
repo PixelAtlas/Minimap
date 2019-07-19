@@ -2,7 +2,8 @@
 	"Categories": [
 		["Brasil-Zone", "brasilzone"],
 		["Voidzil", "voidzil"],
-		["Vasco", "vasco"]
+		["Vasco", "vasco"],
+		["AquaForce", "aquaforce"]
 	],
 	"Templates": {
 		"BrasilZone_MegaBandeira": {
@@ -157,6 +158,42 @@
 			"height": 1066,
 			"categories": ["voidzil"],
 			"aliases": ["Full voidzill"]
+		},
+		"AquaForce_Template": {
+			"name": "AquaForce_Template.png",
+			"x": 3265,
+			"y": 2119,
+			"width": 830,
+			"height": 741,
+			"categories": ["aquaforce"],
+			"aliases": ["AquaForce template"]
+		},
+		"AquaForce_Base2": {
+			"name": "AquaForce_Base2.png",
+			"x": 3838,
+			"y": 2127,
+			"width": 257,
+			"height": 331,
+			"categories": ["aquaforce"],
+			"aliases": ["AquaForce base"]
+		},
+		"AquaForce_Bill": {
+			"name": "AquaForce_Bill.png",
+			"x": 3592,
+			"y": 2256,
+			"width": 57,
+			"height": 26,
+			"categories": ["aquaforce"],
+			"aliases": ["bill"]
+		},
+		"AquaForce_ContryBall_AF": {
+			"name": "AquaForce_ContryBall_AF.png",
+			"x": 3392,
+			"y": 2372,
+			"width": 50,
+			"height": 64,
+			"categories": ["aquaforce"],
+			"aliases": ["AquaForce CountryBall"]
 		}
 	}
 }

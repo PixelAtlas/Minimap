@@ -1,7 +1,8 @@
 {
 	"Categories": [
 		["Brasil-Zone", "brasilzone"],
-		["Voidzil", "voidzil"]
+		["Voidzil", "voidzil"],
+		["Vasco", "vasco"]
 	],
 	"Templates": {
 		"BrasilZone_MegaBandeira": {
@@ -145,6 +146,15 @@
 			"y": 2363,
 			"width": 1433,
 			"height": 649,
+			"categories": ["voidzil"],
+			"aliases": ["Full voidzill"]
+		},
+		"Vasco_WhiteVoid": {
+			"name": "Vasco_WhiteVoid.png",
+			"x": 677,
+			"y": 2933,
+			"width": 1400,
+			"height": 1066,
 			"categories": ["voidzil"],
 			"aliases": ["Full voidzill"]
 		}

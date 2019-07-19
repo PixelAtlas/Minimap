@@ -16,6 +16,8 @@ But, there are some "fancy" features we've also included:
 - Option to only show templates from certain factions/groups/categories.
 - Goto search, so you can find creations with ease.
 
+![Preview image Pixelcanvas.io](https://raw.githubusercontent.com/PixelAtlas/Minimap/master/Preview-PixelCanvasIO.png)
+
 # Sounds good, where can I get it
 Due to issues that have occurred in the past, the actual code is private, instead we provide an obfuscated version, that can be found here: https://github.com/PixelAtlas/Minimap, in the public repository containing every  factions' art.
 

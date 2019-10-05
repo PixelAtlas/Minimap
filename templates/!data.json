@@ -165,6 +165,15 @@
 			"categories": ["spacecanvas"],
 			"aliases": ["Space base", "spacecanvas base", "Base"]
 		},
+		"SpaceCanvas_BaseExtension": {
+			"name": "SpaceCanvas_BaseExtension.png",
+			"x": -6937,
+			"y": -3146,
+			"width": 801,
+			"height": 801,
+			"categories": ["spacecanvas"],
+			"aliases": ["BaseExtension"]
+		},
 		"Misc_Oddish": {
 			"name": "Misc_Oddish.png",
 			"x": 68992,

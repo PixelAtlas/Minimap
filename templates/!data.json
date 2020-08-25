@@ -174,6 +174,15 @@
 			"categories": ["spacecanvas"],
 			"aliases": ["BaseExtension"]
 		},
+		"Misc_Landmines": {
+			"name": "Misc_Landmines",
+			"x": -6760,
+			"y": -3106,
+			"width": 294,
+			"height": 336,
+			"categories": ["misc"],
+			"aliases": ["landmines"]
+		},
 		"Misc_Oddish": {
 			"name": "Misc_Oddish.png",
 			"x": 68992,

@@ -354,6 +354,15 @@
 			"categories": ["pixelearth"],
 			"aliases": ["PixelEarth", "Europe"]
 		},
+		"Misc_EuropeLandmines": {
+			"name": "Misc_EuropeLandmines",
+			"x": -3618,
+			"y": -4463,
+			"width": 736,
+			"height": 662,
+			"categories": ["misc"],
+			"aliases": ["europelandmines"]
+		},
 		"PixelGS_base": {
 			"name": "PixelGS_base.png",
 			"x": -925,

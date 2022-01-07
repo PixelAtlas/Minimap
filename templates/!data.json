@@ -147,6 +147,15 @@
 			"categories": ["misc"],
 			"aliases": [""]
 		},
+		"Misc_HabboHotel": {
+			"name": "Misc_HabboHotel",
+			"x": 11233,
+			"y": 436,
+			"width": 467,
+			"height": 605,
+			"categories": ["misc"],
+			"aliases": ["hotel"]
+		},
 		"SpaceCanvas_CrabGalaxy": {
 			"name": "SpaceCanvas_CrabGalaxy.png",
 			"x": 484,

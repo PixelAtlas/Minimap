@@ -148,7 +148,7 @@
 			"aliases": [""]
 		},
 		"Misc_HabboHotel": {
-			"name": "Misc_HabboHotel",
+			"name": "Misc_HabboHotel.png",
 			"x": 11233,
 			"y": 436,
 			"width": 467,
@@ -157,7 +157,7 @@
 			"aliases": ["hotel"]
 		},
 		"Misc_WoobyMemorial": {
-			"name": "Misc_WoobyMemorial",
+			"name": "Misc_WoobyMemorial.png",
 			"x": -630,
 			"y": 11350,
 			"width": 80,

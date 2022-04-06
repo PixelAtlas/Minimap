@@ -156,6 +156,15 @@
 			"categories": ["misc"],
 			"aliases": ["hotel"]
 		},
+		"WoobyMemorial": {
+			"name": "WoobyMemorial",
+			"x": -630,
+			"y": 11350,
+			"width": 80,
+			"height": 177,
+			"categories": ["misc"],
+			"aliases": ["Wooby"]
+		},
 		"SpaceCanvas_CrabGalaxy": {
 			"name": "SpaceCanvas_CrabGalaxy.png",
 			"x": 484,

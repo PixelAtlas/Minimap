@@ -156,8 +156,8 @@
 			"categories": ["misc"],
 			"aliases": ["hotel"]
 		},
-		"WoobyMemorial": {
-			"name": "WoobyMemorial",
+		"Misc_WoobyMemorial": {
+			"name": "Misc_WoobyMemorial",
 			"x": -630,
 			"y": 11350,
 			"width": 80,

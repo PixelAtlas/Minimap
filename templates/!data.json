@@ -165,6 +165,15 @@
 			"categories": ["misc"],
 			"aliases": ["Wooby"]
 		},
+		"Misc_LDDC": {
+			"name": "Misc_LDDC.png",
+			"x": -2000,
+			"y": 14545,
+			"width": 340,
+			"height": 191,
+			"categories": ["misc"],
+			"aliases": ["lddc"]
+		},
 		"SpaceCanvas_CrabGalaxy": {
 			"name": "SpaceCanvas_CrabGalaxy.png",
 			"x": 484,

@@ -201,6 +201,15 @@
 			"categories": ["spacecanvas"],
 			"aliases": ["BaseExtension"]
 		},
+		"SpaceCanvas_LinkNewCenter": {
+			"name": "SpaceCanvas_LinkNewCenter.png",
+			"x": 1387,
+			"y": 9145,
+			"width": 286,
+			"height": 286,
+			"categories": ["spacecanvas"],
+			"aliases": ["LinkNewCenter"]
+		},
 		"Misc_Oddish": {
 			"name": "Misc_Oddish.png",
 			"x": 68992,

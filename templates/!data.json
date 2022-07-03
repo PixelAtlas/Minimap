@@ -168,9 +168,9 @@
 		"Misc_LDDC": {
 			"name": "Misc_LDDC.png",
 			"x": -2004,
-			"y": 14524,
-			"width": 348,
-			"height": 216,
+			"y": 14301,
+			"width": 705,
+			"height": 439,
 			"categories": ["misc"],
 			"aliases": ["lddc"]
 		},

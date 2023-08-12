@@ -183,6 +183,15 @@
 			"categories": ["misc"],
 			"aliases": ["Tribute"]
 		},
+		"Misc_PokemonGreen": {
+			"name": "Misc_PokemonGreen.png",
+			"x": -999998,
+			"y": -999998,
+			"width": 1343,
+			"height": 428,
+			"categories": ["misc"],
+			"aliases": ["Pokemon"]
+		},
 		"SpaceCanvas_CrabGalaxy": {
 			"name": "SpaceCanvas_CrabGalaxy.png",
 			"x": 484,

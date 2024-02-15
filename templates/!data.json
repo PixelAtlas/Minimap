@@ -201,6 +201,15 @@
 			"categories": ["misc"],
 			"aliases": ["Pokemon"]
 		},
+		"Misc_Schierke": {
+			"name": "Misc_Schierke.png",
+			"x": 3548,
+			"y": 106,
+			"width": 128,
+			"height": 159,
+			"categories": ["misc"],
+			"aliases": ["Schierke"]
+		},
 		"SpaceCanvas_CrabGalaxy": {
 			"name": "SpaceCanvas_CrabGalaxy.png",
 			"x": 484,

@@ -138,6 +138,15 @@
 			"categories": ["misc"],
 			"aliases": ["Faction Board", "Board"]
 		},
+		"Misc_FactionBoard_2": {
+			"name": "Misc_FactionBoard_2.png",
+			"x": 437,
+			"y": 10235,
+			"width": 176,
+			"height": 176,
+			"categories": ["misc"],
+			"aliases": ["Faction Board", "Board"]
+		},
 		"Misc_LinkinParkLogo": {
 			"name": "Misc_LinkinParkLogo.png",
 			"x": 1228,

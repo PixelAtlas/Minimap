@@ -210,6 +210,15 @@
 			"categories": ["misc"],
 			"aliases": ["Schierke"]
 		},
+		"Misc_MLP1": {
+			"name": "Misc_MLP1.png",
+			"x": -1075,
+			"y": 346,
+			"width": 2509,
+			"height": 943,
+			"categories": ["misc"],
+			"aliases": ["MLP"]
+		},
 		"SpaceCanvas_CrabGalaxy": {
 			"name": "SpaceCanvas_CrabGalaxy.png",
 			"x": 484,

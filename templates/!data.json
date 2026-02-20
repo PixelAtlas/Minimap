@@ -219,6 +219,15 @@
 			"categories": ["misc"],
 			"aliases": ["MLP"]
 		},
+			"Misc_SpainFlag": {
+			"name": "Misc_SpainFlag.png",
+			"x": -206,
+			"y": 9652,
+			"width": 183,
+			"height": 122,
+			"categories": ["misc"],
+			"aliases": ["Spain"]
+		},
 		"SpaceCanvas_CrabGalaxy": {
 			"name": "SpaceCanvas_CrabGalaxy.png",
 			"x": 484,
@@ -455,3 +464,4 @@
 		}
 	}
 }
+

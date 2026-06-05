@@ -158,10 +158,10 @@
 		},
 		"Misc_HabboHotel": {
 			"name": "Misc_HabboHotel.png",
-			"x": 11233,
+			"x": 10941,
 			"y": 436,
-			"width": 467,
-			"height": 605,
+			"width": 1029,
+			"height": 867,
 			"categories": ["misc"],
 			"aliases": ["hotel"]
 		},

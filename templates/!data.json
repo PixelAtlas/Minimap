@@ -219,6 +219,15 @@
 			"categories": ["misc"],
 			"aliases": ["MLP"]
 		},
+		"Misc_Terncode_portrait_final_727_10251": {
+			"name": Misc_Terncode_portrait_final_727_10251.png",
+			"x": 727,
+			"y": 10251,
+			"width": 340,
+			"height": 413,
+			"categories": ["misc"],
+			"aliases": ["Terncode"]
+		},
 			"Misc_SpainFlag": {
 			"name": "Misc_SpainFlag.png",
 			"x": -206,
@@ -227,6 +236,15 @@
 			"height": 122,
 			"categories": ["misc"],
 			"aliases": ["Spain"]
+		},
+			"Misc_LoveLive_Mural_6106_2879": {
+			"name": "Misc_LoveLive_Mural_6106_2879.png",
+			"x": 6106,
+			"y": 2879,
+			"width": 399,
+			"height": 560,
+			"categories": ["misc"],
+			"aliases": ["LoveLive"]
 		},
 		"SpaceCanvas_CrabGalaxy": {
 			"name": "SpaceCanvas_CrabGalaxy.png",

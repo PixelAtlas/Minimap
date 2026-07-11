@@ -220,7 +220,7 @@
 			"aliases": ["MLP"]
 		},
 		"Misc_TerncodePortraitFinal": {
-			"name": Misc_TerncodePortraitFinal.png",
+			"name": "Misc_TerncodePortraitFinal.png",
 			"x": 727,
 			"y": 10251,
 			"width": 340,

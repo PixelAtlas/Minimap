@@ -246,6 +246,15 @@
 			"categories": ["misc"],
 			"aliases": ["LoveLive"]
 		},
+			"Misc_Center2": {
+			"name": "Misc_Center2.png",
+			"x": -500,
+			"y": -315,
+			"width": 1076,
+			"height": 670,
+			"categories": ["misc"],
+			"aliases": ["Center"]
+		},
 		"SpaceCanvas_CrabGalaxy": {
 			"name": "SpaceCanvas_CrabGalaxy.png",
 			"x": 484,

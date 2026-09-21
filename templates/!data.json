@@ -318,6 +318,15 @@
 			"categories": ["misc"],
 			"aliases": ["turnt"]
 		},
+		"Misc_BlueCurse": {
+			"name": "Misc_BlueCurse.png",
+			"x": 1137,
+			"y": -606,
+			"width": 1228,
+			"height": 700,
+			"categories": ["misc"],
+			"aliases": ["Blue Curse"]
+		},
 		"PixelBerry_Flag": {
 			"name": "PixelBerry_Flag.png",
 			"x": -4520,
